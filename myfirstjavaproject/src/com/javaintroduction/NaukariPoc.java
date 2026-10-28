@@ -27,6 +27,7 @@ public class NaukariPoc {
 			System.out.println("you are eligible");
 		}else {
 			System.out.println("you are  not eligible");
+			return;
 		}
 		System.out.println("Enter u r technical skills");
 		System.out.println("enter u r skills");
@@ -38,7 +39,7 @@ public class NaukariPoc {
 		}
 		
 		
-		System.out.println();
+		
 	
 
 		
